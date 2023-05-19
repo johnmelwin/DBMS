@@ -1,10 +1,5 @@
--- http://dev.mysql.com/doc/world-setup/en/index.htmlMySQL dump 10.13  Distrib 5.1.51, for pc-linux-gnu (i686)
+--lang: sql
 
--- Modified by Jim Habermas for Spring 2021 (2205)
-
--- Modified by Elissa Weeden for RIT (GCCIS-ISTE-230) and Jim Habermas (2201)
--- Modified Summer 2020   Changed    George W. Bush  
--- 			  To         Barack H. Obama II
 DROP DATABASE IF EXISTS world;
 
 CREATE DATABASE world;
