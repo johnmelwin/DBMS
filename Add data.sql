@@ -1,3 +1,5 @@
+-- language: sql
+-- lang: sql
 -- John paul Raj, John Melwin Richard
 -- Database Homework part 2
 -- Spring 2023
