@@ -7,7 +7,6 @@
 -- 			  To         Barack H. Obama II
 DROP DATABASE IF EXISTS world;
 
-
 CREATE DATABASE world;
 
 USE world;
